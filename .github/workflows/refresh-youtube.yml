@@ -2,13 +2,6 @@ name: Refresh YouTube playlist
 
 on:
   workflow_dispatch:
-  push:
-    paths:
-      - 'sources.txt'
-      - 'refresh_youtube.py'
-      - '.github/workflows/refresh-youtube.yml'
-  schedule:
-    - cron: '17 * * * *'
 
 permissions:
   contents: write
