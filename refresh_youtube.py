@@ -3,6 +3,7 @@ from yt_dlp import YoutubeDL
 
 SOURCES = Path('sources.txt')
 OUTPUT = Path('youtube.m3u')
+POT_SCRIPT = str((Path('pot-provider/server/build/generate_once.js')).resolve())
 
 lines = ['#EXTM3U']
 
@@ -11,7 +12,10 @@ opts = {
     'no_warnings': True,
     'skip_download': True,
     'noplaylist': True,
-    'extractor_args': {'youtube': {'player_client': ['web_embedded']}},
+    'extractor_args': {
+        'youtube': {'player_client': ['mweb']},
+        'youtubepot-bgutilscript': {'script_path': [POT_SCRIPT]},
+    },
     'format': 'best[ext=mp4][acodec!=none][vcodec!=none]/best[acodec!=none][vcodec!=none]',
 }
 
