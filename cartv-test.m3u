@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 group-title="Web" tvg-name="Google",Google
+https://www.google.com/
+#EXTINF:-1 group-title="Web" tvg-name="YouTube",YouTube
+https://www.youtube.com/
+#EXTINF:-1 group-title="Web" tvg-name="YouTube Mobile",YouTube Mobile
+https://m.youtube.com/
