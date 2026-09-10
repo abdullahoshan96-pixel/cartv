@@ -11,7 +11,8 @@ opts = {
     'no_warnings': True,
     'skip_download': True,
     'noplaylist': True,
-    'format': '18/best[ext=mp4][acodec!=none][vcodec!=none]/best[acodec!=none][vcodec!=none]',
+    'extractor_args': {'youtube': {'player_client': ['web_embedded']}},
+    'format': 'best[ext=mp4][acodec!=none][vcodec!=none]/best[acodec!=none][vcodec!=none]',
 }
 
 for raw in SOURCES.read_text(encoding='utf-8').splitlines():
