@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 group-title="إذاعة مختلف" tvg-name="سر اختلاف راحة المقاعد على نفس نموذج الطائرة" tvg-logo="https://i.ytimg.com/vi/l4pdnwNm5fk/hqdefault.jpg",سر اختلاف راحة المقاعد على نفس نموذج الطائرة
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://yewtu.be/latest_version?id=l4pdnwNm5fk&itag=18&local=true
 #EXTINF:-1 group-title="إذاعة مختلف" tvg-name="كواليس حادث طائرة أمازون" tvg-logo="https://i.ytimg.com/vi/RemzaGHEcUA/hqdefault.jpg",كواليس حادث طائرة أمازون
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://yewtu.be/latest_version?id=RemzaGHEcUA&itag=18&local=true
@@ -41,6 +44,3 @@ https://yewtu.be/latest_version?id=bgZQd-qmD94&itag=18&local=true
 #EXTINF:-1 group-title="إذاعة مختلف" tvg-name="أضخم 5 أسواق طيران في الشرق الأوسط وصدارة سعودية في 2026" tvg-logo="https://i.ytimg.com/vi/_SGXWHs0xs0/hqdefault.jpg",أضخم 5 أسواق طيران في الشرق الأوسط وصدارة سعودية في 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://yewtu.be/latest_version?id=_SGXWHs0xs0&itag=18&local=true
-#EXTINF:-1 group-title="إذاعة مختلف" tvg-name="لماذا تسيطر بوينغ وإيرباص على صناعة الطائرات عالميًا | بودكاست أميال" tvg-logo="https://i.ytimg.com/vi/p2DLhBRpmQ4/hqdefault.jpg",لماذا تسيطر بوينغ وإيرباص على صناعة الطائرات عالميًا | بودكاست أميال
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://yewtu.be/latest_version?id=p2DLhBRpmQ4&itag=18&local=true
