@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 group-title="إذاعة مختلف" tvg-name="لماذا استبعد طيران الرياض برلين وفضّل عواصم آسيا وفرانكفورت؟" tvg-logo="https://i.ytimg.com/vi/Ev5U5GFrqgI/hqdefault.jpg",لماذا استبعد طيران الرياض برلين وفضّل عواصم آسيا وفرانكفورت؟
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://yewtu.be/latest_version?id=Ev5U5GFrqgI&itag=18&local=true
 #EXTINF:-1 group-title="إذاعة مختلف" tvg-name="هل تحتاج مكة إلى مطار جديد أم أن الحل موجود في الطائف | بودكاست أميال" tvg-logo="https://i.ytimg.com/vi/CMtZImLlra0/hqdefault.jpg",هل تحتاج مكة إلى مطار جديد أم أن الحل موجود في الطائف | بودكاست أميال
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://yewtu.be/latest_version?id=CMtZImLlra0&itag=18&local=true
@@ -41,6 +44,3 @@ https://yewtu.be/latest_version?id=PT6Vd_5lWes&itag=18&local=true
 #EXTINF:-1 group-title="إذاعة مختلف" tvg-name="كيف تتحول أوقات الإقلاع والهبوط إلى تجارة بـ الملايين؟" tvg-logo="https://i.ytimg.com/vi/rXEdYtZtN1A/hqdefault.jpg",كيف تتحول أوقات الإقلاع والهبوط إلى تجارة بـ الملايين؟
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://yewtu.be/latest_version?id=rXEdYtZtN1A&itag=18&local=true
-#EXTINF:-1 group-title="إذاعة مختلف" tvg-name="خطة «مصر للطيران» للتوسع في 2030 وتجاوز التحديات المالية" tvg-logo="https://i.ytimg.com/vi/bgZQd-qmD94/hqdefault.jpg",خطة «مصر للطيران» للتوسع في 2030 وتجاوز التحديات المالية
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://yewtu.be/latest_version?id=bgZQd-qmD94&itag=18&local=true
