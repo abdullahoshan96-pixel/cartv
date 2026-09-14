@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 group-title="إذاعة مختلف" tvg-name="قصة قفزة سويس بورت في السعودية" tvg-logo="https://i.ytimg.com/vi/TJCAVq5p4k0/hqdefault.jpg",قصة قفزة سويس بورت في السعودية
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://yewtu.be/latest_version?id=TJCAVq5p4k0&itag=18&local=true
 #EXTINF:-1 group-title="إذاعة مختلف" tvg-name="لماذا استبعد طيران الرياض برلين وفضّل عواصم آسيا وفرانكفورت؟" tvg-logo="https://i.ytimg.com/vi/Ev5U5GFrqgI/hqdefault.jpg",لماذا استبعد طيران الرياض برلين وفضّل عواصم آسيا وفرانكفورت؟
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://yewtu.be/latest_version?id=Ev5U5GFrqgI&itag=18&local=true
@@ -41,6 +44,3 @@ https://yewtu.be/latest_version?id=A09xU6lSSZo&itag=18&local=true
 #EXTINF:-1 group-title="إذاعة مختلف" tvg-name="أيهما أفضل لمستقبل إدارة الطيران: شركات الطيران أم المطارات؟" tvg-logo="https://i.ytimg.com/vi/PT6Vd_5lWes/hqdefault.jpg",أيهما أفضل لمستقبل إدارة الطيران: شركات الطيران أم المطارات؟
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://yewtu.be/latest_version?id=PT6Vd_5lWes&itag=18&local=true
-#EXTINF:-1 group-title="إذاعة مختلف" tvg-name="كيف تتحول أوقات الإقلاع والهبوط إلى تجارة بـ الملايين؟" tvg-logo="https://i.ytimg.com/vi/rXEdYtZtN1A/hqdefault.jpg",كيف تتحول أوقات الإقلاع والهبوط إلى تجارة بـ الملايين؟
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://yewtu.be/latest_version?id=rXEdYtZtN1A&itag=18&local=true
