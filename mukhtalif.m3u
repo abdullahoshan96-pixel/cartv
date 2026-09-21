@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 group-title="إذاعة مختلف" tvg-name="أرباح منخفضة رغم كثافة الأعداد؟" tvg-logo="https://i.ytimg.com/vi/JfK0omw0Jx4/hqdefault.jpg",أرباح منخفضة رغم كثافة الأعداد؟
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://yewtu.be/latest_version?id=JfK0omw0Jx4&itag=18&local=true
 #EXTINF:-1 group-title="إذاعة مختلف" tvg-name="لماذا لا يوجد مطار بمكة؟" tvg-logo="https://i.ytimg.com/vi/X0GUFpIYKmM/hqdefault.jpg",لماذا لا يوجد مطار بمكة؟
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://yewtu.be/latest_version?id=X0GUFpIYKmM&itag=18&local=true
@@ -41,6 +44,3 @@ https://yewtu.be/latest_version?id=G6n2ROh-6zc&itag=18&local=true
 #EXTINF:-1 group-title="إذاعة مختلف" tvg-name="لغز تأخير الرحلات بين مصر وسوريا رغم استيفاء معايير الطيران" tvg-logo="https://i.ytimg.com/vi/tu4qv1cGar4/hqdefault.jpg",لغز تأخير الرحلات بين مصر وسوريا رغم استيفاء معايير الطيران
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://yewtu.be/latest_version?id=tu4qv1cGar4&itag=18&local=true
-#EXTINF:-1 group-title="إذاعة مختلف" tvg-name="طيران ناس يغير قواعد المنافسة: ماذا يحدث في سوق الطيران السعودي | بودكاست أميال" tvg-logo="https://i.ytimg.com/vi/FZ3n9-F1p1M/hqdefault.jpg",طيران ناس يغير قواعد المنافسة: ماذا يحدث في سوق الطيران السعودي | بودكاست أميال
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://yewtu.be/latest_version?id=FZ3n9-F1p1M&itag=18&local=true
