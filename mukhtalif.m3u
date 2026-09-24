@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 group-title="إذاعة مختلف" tvg-name="انطلاق أحدث ناقل جوي سعودي" tvg-logo="https://i.ytimg.com/vi/GdyjZgO113k/hqdefault.jpg",انطلاق أحدث ناقل جوي سعودي
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://yewtu.be/latest_version?id=GdyjZgO113k&itag=18&local=true
 #EXTINF:-1 group-title="إذاعة مختلف" tvg-name="عروض قوية من طيران العربية" tvg-logo="https://i.ytimg.com/vi/nyOqeSifarw/hqdefault.jpg",عروض قوية من طيران العربية
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://yewtu.be/latest_version?id=nyOqeSifarw&itag=18&local=true
@@ -41,6 +44,3 @@ https://yewtu.be/latest_version?id=hyz2L-Qfzl4&itag=18&local=true
 #EXTINF:-1 group-title="إذاعة مختلف" tvg-name="كواليس صفقة طيران ناس وسويس بورت" tvg-logo="https://i.ytimg.com/vi/ZHY_zbxHO5Y/hqdefault.jpg",كواليس صفقة طيران ناس وسويس بورت
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://yewtu.be/latest_version?id=ZHY_zbxHO5Y&itag=18&local=true
-#EXTINF:-1 group-title="إذاعة مختلف" tvg-name="هل تنهي الشراكةُ المنافسةَ بين الخطوط السعودية وطيران الرياض؟" tvg-logo="https://i.ytimg.com/vi/euzsOrKA86g/hqdefault.jpg",هل تنهي الشراكةُ المنافسةَ بين الخطوط السعودية وطيران الرياض؟
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://yewtu.be/latest_version?id=euzsOrKA86g&itag=18&local=true
