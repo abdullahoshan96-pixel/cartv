@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 group-title="إذاعة مختلف" tvg-name="لماذا كانوا أربعة طيارين على طائرة فلاي دبي؟" tvg-logo="https://i.ytimg.com/vi/m64rcQ2zed0/hqdefault.jpg",لماذا كانوا أربعة طيارين على طائرة فلاي دبي؟
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://yewtu.be/latest_version?id=m64rcQ2zed0&itag=18&local=true
 #EXTINF:-1 group-title="إذاعة مختلف" tvg-name="من هبط بطائرة فلاي دبي؟" tvg-logo="https://i.ytimg.com/vi/7Xrx3uJKq9Q/hqdefault.jpg",من هبط بطائرة فلاي دبي؟
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://yewtu.be/latest_version?id=7Xrx3uJKq9Q&itag=18&local=true
@@ -41,6 +44,3 @@ https://yewtu.be/latest_version?id=RpYVpnxEFuM&itag=18&local=true
 #EXTINF:-1 group-title="إذاعة مختلف" tvg-name="أسرار خسائر الطيران الصيني" tvg-logo="https://i.ytimg.com/vi/fosdeoMFHFw/hqdefault.jpg",أسرار خسائر الطيران الصيني
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://yewtu.be/latest_version?id=fosdeoMFHFw&itag=18&local=true
-#EXTINF:-1 group-title="إذاعة مختلف" tvg-name="خسارة SGS لعقد طيران ناس" tvg-logo="https://i.ytimg.com/vi/m4bvAZOJbF0/hqdefault.jpg",خسارة SGS لعقد طيران ناس
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://yewtu.be/latest_version?id=m4bvAZOJbF0&itag=18&local=true
