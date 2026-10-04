@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-1 group-title="إذاعة مختلف" tvg-name="من هبط بطائرة فلاي دبي؟" tvg-logo="https://i.ytimg.com/vi/7Xrx3uJKq9Q/hqdefault.jpg",من هبط بطائرة فلاي دبي؟
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://yewtu.be/latest_version?id=7Xrx3uJKq9Q&itag=18&local=true
+#EXTINF:-1 group-title="إذاعة مختلف" tvg-name="هل تنهي إيرباص A350F هيمنة بوينغ على سوق طائرات الشحن | بودكاست أميال" tvg-logo="https://i.ytimg.com/vi/LeVp8mCVvg4/hqdefault.jpg",هل تنهي إيرباص A350F هيمنة بوينغ على سوق طائرات الشحن | بودكاست أميال
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://yewtu.be/latest_version?id=LeVp8mCVvg4&itag=18&local=true
+#EXTINF:-1 group-title="إذاعة مختلف" tvg-name="ماذا لو كانت طائرة فلاي دبي إيرباص؟" tvg-logo="https://i.ytimg.com/vi/YQUkXuc_BjQ/hqdefault.jpg",ماذا لو كانت طائرة فلاي دبي إيرباص؟
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://yewtu.be/latest_version?id=YQUkXuc_BjQ&itag=18&local=true
+#EXTINF:-1 group-title="إذاعة مختلف" tvg-name="هل يمكن للسبّاك إنقاذ الطائرة ؟" tvg-logo="https://i.ytimg.com/vi/MyRIOBKnIp4/hqdefault.jpg",هل يمكن للسبّاك إنقاذ الطائرة ؟
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://yewtu.be/latest_version?id=MyRIOBKnIp4&itag=18&local=true
 #EXTINF:-1 group-title="إذاعة مختلف" tvg-name="ماذا حدث لطائرة فلاي دبي قبل هبوطها في تبوك؟ | بودكاست أميال" tvg-logo="https://i.ytimg.com/vi/Wz5FN_tfjbg/hqdefault.jpg",ماذا حدث لطائرة فلاي دبي قبل هبوطها في تبوك؟ | بودكاست أميال
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://yewtu.be/latest_version?id=Wz5FN_tfjbg&itag=18&local=true
@@ -32,15 +44,3 @@ https://yewtu.be/latest_version?id=fosdeoMFHFw&itag=18&local=true
 #EXTINF:-1 group-title="إذاعة مختلف" tvg-name="خسارة SGS لعقد طيران ناس" tvg-logo="https://i.ytimg.com/vi/m4bvAZOJbF0/hqdefault.jpg",خسارة SGS لعقد طيران ناس
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://yewtu.be/latest_version?id=m4bvAZOJbF0&itag=18&local=true
-#EXTINF:-1 group-title="إذاعة مختلف" tvg-name="قصة قفزة سويس بورت في السعودية" tvg-logo="https://i.ytimg.com/vi/TJCAVq5p4k0/hqdefault.jpg",قصة قفزة سويس بورت في السعودية
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://yewtu.be/latest_version?id=TJCAVq5p4k0&itag=18&local=true
-#EXTINF:-1 group-title="إذاعة مختلف" tvg-name="لماذا استبعد طيران الرياض برلين وفضّل عواصم آسيا وفرانكفورت؟" tvg-logo="https://i.ytimg.com/vi/Ev5U5GFrqgI/hqdefault.jpg",لماذا استبعد طيران الرياض برلين وفضّل عواصم آسيا وفرانكفورت؟
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://yewtu.be/latest_version?id=Ev5U5GFrqgI&itag=18&local=true
-#EXTINF:-1 group-title="إذاعة مختلف" tvg-name="هل تحتاج مكة إلى مطار جديد أم أن الحل موجود في الطائف | بودكاست أميال" tvg-logo="https://i.ytimg.com/vi/CMtZImLlra0/hqdefault.jpg",هل تحتاج مكة إلى مطار جديد أم أن الحل موجود في الطائف | بودكاست أميال
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://yewtu.be/latest_version?id=CMtZImLlra0&itag=18&local=true
-#EXTINF:-1 group-title="إذاعة مختلف" tvg-name="سر اختلاف راحة المقاعد على نفس نموذج الطائرة" tvg-logo="https://i.ytimg.com/vi/l4pdnwNm5fk/hqdefault.jpg",سر اختلاف راحة المقاعد على نفس نموذج الطائرة
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://yewtu.be/latest_version?id=l4pdnwNm5fk&itag=18&local=true
