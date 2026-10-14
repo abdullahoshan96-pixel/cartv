@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 group-title="إذاعة مختلف" tvg-name="انهيار المشروع الهندي!" tvg-logo="https://i.ytimg.com/vi/tqYnzyANT78/hqdefault.jpg",انهيار المشروع الهندي!
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://yewtu.be/latest_version?id=tqYnzyANT78&itag=18&local=true
 #EXTINF:-1 group-title="إذاعة مختلف" tvg-name="يونايتد تحذف مقاعدها!" tvg-logo="https://i.ytimg.com/vi/I8tkiVzNmzk/hqdefault.jpg",يونايتد تحذف مقاعدها!
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://yewtu.be/latest_version?id=I8tkiVzNmzk&itag=18&local=true
@@ -41,6 +44,3 @@ https://yewtu.be/latest_version?id=GdyjZgO113k&itag=18&local=true
 #EXTINF:-1 group-title="إذاعة مختلف" tvg-name="عروض قوية من طيران العربية" tvg-logo="https://i.ytimg.com/vi/nyOqeSifarw/hqdefault.jpg",عروض قوية من طيران العربية
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://yewtu.be/latest_version?id=nyOqeSifarw&itag=18&local=true
-#EXTINF:-1 group-title="إذاعة مختلف" tvg-name="الخطوط الأمريكية بدون شاشات" tvg-logo="https://i.ytimg.com/vi/CxRR0aQatB4/hqdefault.jpg",الخطوط الأمريكية بدون شاشات
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://yewtu.be/latest_version?id=CxRR0aQatB4&itag=18&local=true
