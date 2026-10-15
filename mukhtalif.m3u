@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 group-title="إذاعة مختلف" tvg-name="صفقة سرية بالطيران العماني" tvg-logo="https://i.ytimg.com/vi/wlvAFWIkCko/hqdefault.jpg",صفقة سرية بالطيران العماني
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://yewtu.be/latest_version?id=wlvAFWIkCko&itag=18&local=true
+#EXTINF:-1 group-title="إذاعة مختلف" tvg-name="السنغافورية متورطة!" tvg-logo="https://i.ytimg.com/vi/tQe3i1RMl88/hqdefault.jpg",السنغافورية متورطة!
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://yewtu.be/latest_version?id=tQe3i1RMl88&itag=18&local=true
 #EXTINF:-1 group-title="إذاعة مختلف" tvg-name="انهيار المشروع الهندي!" tvg-logo="https://i.ytimg.com/vi/tqYnzyANT78/hqdefault.jpg",انهيار المشروع الهندي!
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://yewtu.be/latest_version?id=tqYnzyANT78&itag=18&local=true
@@ -38,9 +44,3 @@ https://yewtu.be/latest_version?id=SNg5LunJKG4&itag=18&local=true
 #EXTINF:-1 group-title="إذاعة مختلف" tvg-name="رئيس طيران الاتحاد يستعيد درسًا من رحلته مع الخطوط السعودية" tvg-logo="https://i.ytimg.com/vi/oHuaXSha26w/hqdefault.jpg",رئيس طيران الاتحاد يستعيد درسًا من رحلته مع الخطوط السعودية
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://yewtu.be/latest_version?id=oHuaXSha26w&itag=18&local=true
-#EXTINF:-1 group-title="إذاعة مختلف" tvg-name="انطلاق أحدث ناقل جوي سعودي" tvg-logo="https://i.ytimg.com/vi/GdyjZgO113k/hqdefault.jpg",انطلاق أحدث ناقل جوي سعودي
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://yewtu.be/latest_version?id=GdyjZgO113k&itag=18&local=true
-#EXTINF:-1 group-title="إذاعة مختلف" tvg-name="عروض قوية من طيران العربية" tvg-logo="https://i.ytimg.com/vi/nyOqeSifarw/hqdefault.jpg",عروض قوية من طيران العربية
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://yewtu.be/latest_version?id=nyOqeSifarw&itag=18&local=true
