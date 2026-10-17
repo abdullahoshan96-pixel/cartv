@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 group-title="إذاعة مختلف" tvg-name="معركة سرية بمطار برلين" tvg-logo="https://i.ytimg.com/vi/tE0cgLmhqdM/hqdefault.jpg",معركة سرية بمطار برلين
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://yewtu.be/latest_version?id=tE0cgLmhqdM&itag=18&local=true
 #EXTINF:-1 group-title="إذاعة مختلف" tvg-name="مكافأة 150 مليون ولكن…" tvg-logo="https://i.ytimg.com/vi/hqA4xO6-wDg/hqdefault.jpg",مكافأة 150 مليون ولكن…
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://yewtu.be/latest_version?id=hqA4xO6-wDg&itag=18&local=true
@@ -41,6 +44,3 @@ https://yewtu.be/latest_version?id=YQUkXuc_BjQ&itag=18&local=true
 #EXTINF:-1 group-title="إذاعة مختلف" tvg-name="هل يمكن للسبّاك إنقاذ الطائرة ؟" tvg-logo="https://i.ytimg.com/vi/MyRIOBKnIp4/hqdefault.jpg",هل يمكن للسبّاك إنقاذ الطائرة ؟
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://yewtu.be/latest_version?id=MyRIOBKnIp4&itag=18&local=true
-#EXTINF:-1 group-title="إذاعة مختلف" tvg-name="ماذا حدث لطائرة فلاي دبي قبل هبوطها في تبوك؟ | بودكاست أميال" tvg-logo="https://i.ytimg.com/vi/Wz5FN_tfjbg/hqdefault.jpg",ماذا حدث لطائرة فلاي دبي قبل هبوطها في تبوك؟ | بودكاست أميال
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://yewtu.be/latest_version?id=Wz5FN_tfjbg&itag=18&local=true
