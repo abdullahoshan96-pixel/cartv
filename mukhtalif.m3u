@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 group-title="إذاعة مختلف" tvg-name="مدرج في مطار إسطنبول بتكلفة مليار دولار!" tvg-logo="https://i.ytimg.com/vi/7YjolEva4Wo/hqdefault.jpg",مدرج في مطار إسطنبول بتكلفة مليار دولار!
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://yewtu.be/latest_version?id=7YjolEva4Wo&itag=18&local=true
+#EXTINF:-1 group-title="إذاعة مختلف" tvg-name="لماذا تأخر ستارلينك على طائرات الناقلات السعودية؟" tvg-logo="https://i.ytimg.com/vi/g4sDuC0fMrE/hqdefault.jpg",لماذا تأخر ستارلينك على طائرات الناقلات السعودية؟
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://yewtu.be/latest_version?id=g4sDuC0fMrE&itag=18&local=true
 #EXTINF:-1 group-title="إذاعة مختلف" tvg-name="7. ماذا تفعل إذا أُلغيت رحلتك من أوروبا؟" tvg-logo="https://i.ytimg.com/vi/_nLAPpU1qLs/hqdefault.jpg",7. ماذا تفعل إذا أُلغيت رحلتك من أوروبا؟
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://yewtu.be/latest_version?id=_nLAPpU1qLs&itag=18&local=true
@@ -38,9 +44,3 @@ https://yewtu.be/latest_version?id=TuZ2uwP5png&itag=18&local=true
 #EXTINF:-1 group-title="إذاعة مختلف" tvg-name="مستقبل الصالة الشمالية بجدة!" tvg-logo="https://i.ytimg.com/vi/5uaIIv7F52k/hqdefault.jpg",مستقبل الصالة الشمالية بجدة!
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://yewtu.be/latest_version?id=5uaIIv7F52k&itag=18&local=true
-#EXTINF:-1 group-title="إذاعة مختلف" tvg-name="طائرات بمحرك واحد فقط!" tvg-logo="https://i.ytimg.com/vi/p_1zXl5pk8U/hqdefault.jpg",طائرات بمحرك واحد فقط!
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://yewtu.be/latest_version?id=p_1zXl5pk8U&itag=18&local=true
-#EXTINF:-1 group-title="إذاعة مختلف" tvg-name="لماذا كانوا أربعة طيارين على طائرة فلاي دبي؟" tvg-logo="https://i.ytimg.com/vi/m64rcQ2zed0/hqdefault.jpg",لماذا كانوا أربعة طيارين على طائرة فلاي دبي؟
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://yewtu.be/latest_version?id=m64rcQ2zed0&itag=18&local=true
