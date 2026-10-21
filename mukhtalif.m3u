@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 group-title="إذاعة مختلف" tvg-name="تغريدة أثارت اعتراض شركات الطيران" tvg-logo="https://i.ytimg.com/vi/0MjOqNhLUw4/hqdefault.jpg",تغريدة أثارت اعتراض شركات الطيران
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://yewtu.be/latest_version?id=0MjOqNhLUw4&itag=18&local=true
 #EXTINF:-1 group-title="إذاعة مختلف" tvg-name="مدرج في مطار إسطنبول بتكلفة مليار دولار!" tvg-logo="https://i.ytimg.com/vi/7YjolEva4Wo/hqdefault.jpg",مدرج في مطار إسطنبول بتكلفة مليار دولار!
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://yewtu.be/latest_version?id=7YjolEva4Wo&itag=18&local=true
@@ -41,6 +44,3 @@ https://yewtu.be/latest_version?id=I8tkiVzNmzk&itag=18&local=true
 #EXTINF:-1 group-title="إذاعة مختلف" tvg-name="هل بدأت المنافسة الحقيقية بين الخطوط السعودية وطيران الرياض؟ | بودكاست أميال" tvg-logo="https://i.ytimg.com/vi/TuZ2uwP5png/hqdefault.jpg",هل بدأت المنافسة الحقيقية بين الخطوط السعودية وطيران الرياض؟ | بودكاست أميال
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://yewtu.be/latest_version?id=TuZ2uwP5png&itag=18&local=true
-#EXTINF:-1 group-title="إذاعة مختلف" tvg-name="مستقبل الصالة الشمالية بجدة!" tvg-logo="https://i.ytimg.com/vi/5uaIIv7F52k/hqdefault.jpg",مستقبل الصالة الشمالية بجدة!
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://yewtu.be/latest_version?id=5uaIIv7F52k&itag=18&local=true
