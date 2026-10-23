@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 group-title="إذاعة مختلف" tvg-name="خلل جديد يلاحق بوينغ 737 ماكس" tvg-logo="https://i.ytimg.com/vi/M1tHSAjSkhk/hqdefault.jpg",خلل جديد يلاحق بوينغ 737 ماكس
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://yewtu.be/latest_version?id=M1tHSAjSkhk&itag=18&local=true
 #EXTINF:-1 group-title="إذاعة مختلف" tvg-name="إيرباص تقترب من كسر آخر احتكارات بوينغ" tvg-logo="https://i.ytimg.com/vi/g4-5ajtPa9A/hqdefault.jpg",إيرباص تقترب من كسر آخر احتكارات بوينغ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://yewtu.be/latest_version?id=g4-5ajtPa9A&itag=18&local=true
@@ -41,6 +44,3 @@ https://yewtu.be/latest_version?id=wlvAFWIkCko&itag=18&local=true
 #EXTINF:-1 group-title="إذاعة مختلف" tvg-name="السنغافورية متورطة!" tvg-logo="https://i.ytimg.com/vi/tQe3i1RMl88/hqdefault.jpg",السنغافورية متورطة!
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://yewtu.be/latest_version?id=tQe3i1RMl88&itag=18&local=true
-#EXTINF:-1 group-title="إذاعة مختلف" tvg-name="انهيار المشروع الهندي!" tvg-logo="https://i.ytimg.com/vi/tqYnzyANT78/hqdefault.jpg",انهيار المشروع الهندي!
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://yewtu.be/latest_version?id=tqYnzyANT78&itag=18&local=true
