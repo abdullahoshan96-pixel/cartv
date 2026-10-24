@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 group-title="إذاعة مختلف" tvg-name="درجة الأعمال تتفوق على السياحية في الإيرادات!" tvg-logo="https://i.ytimg.com/vi/pj7l0weNPic/hqdefault.jpg",درجة الأعمال تتفوق على السياحية في الإيرادات!
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://yewtu.be/latest_version?id=pj7l0weNPic&itag=18&local=true
 #EXTINF:-1 group-title="إذاعة مختلف" tvg-name="خلل جديد يلاحق بوينغ 737 ماكس" tvg-logo="https://i.ytimg.com/vi/M1tHSAjSkhk/hqdefault.jpg",خلل جديد يلاحق بوينغ 737 ماكس
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://yewtu.be/latest_version?id=M1tHSAjSkhk&itag=18&local=true
@@ -41,6 +44,3 @@ https://yewtu.be/latest_version?id=qnkJ97Ne32E&itag=18&local=true
 #EXTINF:-1 group-title="إذاعة مختلف" tvg-name="صفقة سرية بالطيران العماني" tvg-logo="https://i.ytimg.com/vi/wlvAFWIkCko/hqdefault.jpg",صفقة سرية بالطيران العماني
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://yewtu.be/latest_version?id=wlvAFWIkCko&itag=18&local=true
-#EXTINF:-1 group-title="إذاعة مختلف" tvg-name="السنغافورية متورطة!" tvg-logo="https://i.ytimg.com/vi/tQe3i1RMl88/hqdefault.jpg",السنغافورية متورطة!
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://yewtu.be/latest_version?id=tQe3i1RMl88&itag=18&local=true
