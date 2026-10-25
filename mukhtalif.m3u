@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 group-title="إذاعة مختلف" tvg-name="لماذا لا تُوطّن شركات الطيران طواقم الضيافة بالكامل؟" tvg-logo="https://i.ytimg.com/vi/wiyS0VvYOYA/hqdefault.jpg",لماذا لا تُوطّن شركات الطيران طواقم الضيافة بالكامل؟
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://yewtu.be/latest_version?id=wiyS0VvYOYA&itag=18&local=true
+#EXTINF:-1 group-title="إذاعة مختلف" tvg-name="هل تتفوق طيران ناس على الخطوط التركية في سوريا؟ | بودكاست أميال" tvg-logo="https://i.ytimg.com/vi/y0NdkpAHqaA/hqdefault.jpg",هل تتفوق طيران ناس على الخطوط التركية في سوريا؟ | بودكاست أميال
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://yewtu.be/latest_version?id=y0NdkpAHqaA&itag=18&local=true
 #EXTINF:-1 group-title="إذاعة مختلف" tvg-name="درجة الأعمال تتفوق على السياحية في الإيرادات!" tvg-logo="https://i.ytimg.com/vi/pj7l0weNPic/hqdefault.jpg",درجة الأعمال تتفوق على السياحية في الإيرادات!
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://yewtu.be/latest_version?id=pj7l0weNPic&itag=18&local=true
@@ -38,9 +44,3 @@ https://yewtu.be/latest_version?id=tE0cgLmhqdM&itag=18&local=true
 #EXTINF:-1 group-title="إذاعة مختلف" tvg-name="مكافأة 150 مليون ولكن…" tvg-logo="https://i.ytimg.com/vi/hqA4xO6-wDg/hqdefault.jpg",مكافأة 150 مليون ولكن…
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://yewtu.be/latest_version?id=hqA4xO6-wDg&itag=18&local=true
-#EXTINF:-1 group-title="إذاعة مختلف" tvg-name="لماذا لم ترفع القطرية الأسعار؟" tvg-logo="https://i.ytimg.com/vi/qnkJ97Ne32E/hqdefault.jpg",لماذا لم ترفع القطرية الأسعار؟
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://yewtu.be/latest_version?id=qnkJ97Ne32E&itag=18&local=true
-#EXTINF:-1 group-title="إذاعة مختلف" tvg-name="صفقة سرية بالطيران العماني" tvg-logo="https://i.ytimg.com/vi/wlvAFWIkCko/hqdefault.jpg",صفقة سرية بالطيران العماني
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://yewtu.be/latest_version?id=wlvAFWIkCko&itag=18&local=true
