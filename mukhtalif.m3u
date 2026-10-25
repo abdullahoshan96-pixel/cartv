@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 group-title="إذاعة مختلف" tvg-name="جت بلو تكسب مزاد خانات سبيرت في نيويورك" tvg-logo="https://i.ytimg.com/vi/uJRxu3Uru8k/hqdefault.jpg",جت بلو تكسب مزاد خانات سبيرت في نيويورك
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://yewtu.be/latest_version?id=uJRxu3Uru8k&itag=18&local=true
+#EXTINF:-1 group-title="إذاعة مختلف" tvg-name="بريميم إيكونومي بسعر ثلث درجة الأعمال!" tvg-logo="https://i.ytimg.com/vi/8soRaT7oKXc/hqdefault.jpg",بريميم إيكونومي بسعر ثلث درجة الأعمال!
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://yewtu.be/latest_version?id=8soRaT7oKXc&itag=18&local=true
 #EXTINF:-1 group-title="إذاعة مختلف" tvg-name="لماذا لا تُوطّن شركات الطيران طواقم الضيافة بالكامل؟" tvg-logo="https://i.ytimg.com/vi/wiyS0VvYOYA/hqdefault.jpg",لماذا لا تُوطّن شركات الطيران طواقم الضيافة بالكامل؟
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://yewtu.be/latest_version?id=wiyS0VvYOYA&itag=18&local=true
@@ -38,9 +44,3 @@ https://yewtu.be/latest_version?id=dpHBCRQctFQ&itag=18&local=true
 #EXTINF:-1 group-title="إذاعة مختلف" tvg-name="إيرباص أم بوينغ: من يفوز بصفقة الخطوط السعودية القادمة | بودكاست أميال" tvg-logo="https://i.ytimg.com/vi/tGfBPDFZY8w/hqdefault.jpg",إيرباص أم بوينغ: من يفوز بصفقة الخطوط السعودية القادمة | بودكاست أميال
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://yewtu.be/latest_version?id=tGfBPDFZY8w&itag=18&local=true
-#EXTINF:-1 group-title="إذاعة مختلف" tvg-name="معركة سرية بمطار برلين" tvg-logo="https://i.ytimg.com/vi/tE0cgLmhqdM/hqdefault.jpg",معركة سرية بمطار برلين
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://yewtu.be/latest_version?id=tE0cgLmhqdM&itag=18&local=true
-#EXTINF:-1 group-title="إذاعة مختلف" tvg-name="مكافأة 150 مليون ولكن…" tvg-logo="https://i.ytimg.com/vi/hqA4xO6-wDg/hqdefault.jpg",مكافأة 150 مليون ولكن…
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://yewtu.be/latest_version?id=hqA4xO6-wDg&itag=18&local=true
