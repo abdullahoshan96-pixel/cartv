@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 group-title="إذاعة مختلف" tvg-name="لماذا رفضت دلتا إيلون ماسك؟" tvg-logo="https://i.ytimg.com/vi/3QgXS2o2UKI/hqdefault.jpg",لماذا رفضت دلتا إيلون ماسك؟
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://yewtu.be/latest_version?id=3QgXS2o2UKI&itag=18&local=true
 #EXTINF:-1 group-title="إذاعة مختلف" tvg-name="جت بلو تكسب مزاد خانات سبيرت في نيويورك" tvg-logo="https://i.ytimg.com/vi/uJRxu3Uru8k/hqdefault.jpg",جت بلو تكسب مزاد خانات سبيرت في نيويورك
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://yewtu.be/latest_version?id=uJRxu3Uru8k&itag=18&local=true
@@ -41,6 +44,3 @@ https://yewtu.be/latest_version?id=Jf-vMSGJF5E&itag=18&local=true
 #EXTINF:-1 group-title="إذاعة مختلف" tvg-name="لهذا السبب فشلت رحلة جدة طوكيو" tvg-logo="https://i.ytimg.com/vi/dpHBCRQctFQ/hqdefault.jpg",لهذا السبب فشلت رحلة جدة طوكيو
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://yewtu.be/latest_version?id=dpHBCRQctFQ&itag=18&local=true
-#EXTINF:-1 group-title="إذاعة مختلف" tvg-name="إيرباص أم بوينغ: من يفوز بصفقة الخطوط السعودية القادمة | بودكاست أميال" tvg-logo="https://i.ytimg.com/vi/tGfBPDFZY8w/hqdefault.jpg",إيرباص أم بوينغ: من يفوز بصفقة الخطوط السعودية القادمة | بودكاست أميال
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://yewtu.be/latest_version?id=tGfBPDFZY8w&itag=18&local=true
