@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 group-title="إذاعة مختلف" tvg-name="الخطوط السعودية تسبق طيران الرياض إلى مانشستر" tvg-logo="https://i.ytimg.com/vi/1t2UFNLzLP8/hqdefault.jpg",الخطوط السعودية تسبق طيران الرياض إلى مانشستر
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://yewtu.be/latest_version?id=1t2UFNLzLP8&itag=18&local=true
 #EXTINF:-1 group-title="إذاعة مختلف" tvg-name="لماذا رفضت دلتا إيلون ماسك؟" tvg-logo="https://i.ytimg.com/vi/3QgXS2o2UKI/hqdefault.jpg",لماذا رفضت دلتا إيلون ماسك؟
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://yewtu.be/latest_version?id=3QgXS2o2UKI&itag=18&local=true
@@ -41,6 +44,3 @@ https://yewtu.be/latest_version?id=_nLAPpU1qLs&itag=18&local=true
 #EXTINF:-1 group-title="إذاعة مختلف" tvg-name="كيف بنت طيران الإمارات أغلى علامة في قطاع الطيران؟" tvg-logo="https://i.ytimg.com/vi/Jf-vMSGJF5E/hqdefault.jpg",كيف بنت طيران الإمارات أغلى علامة في قطاع الطيران؟
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://yewtu.be/latest_version?id=Jf-vMSGJF5E&itag=18&local=true
-#EXTINF:-1 group-title="إذاعة مختلف" tvg-name="لهذا السبب فشلت رحلة جدة طوكيو" tvg-logo="https://i.ytimg.com/vi/dpHBCRQctFQ/hqdefault.jpg",لهذا السبب فشلت رحلة جدة طوكيو
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://yewtu.be/latest_version?id=dpHBCRQctFQ&itag=18&local=true
