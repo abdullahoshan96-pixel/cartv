@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 group-title="إذاعة مختلف" tvg-name="ساعة و40 دقيقة بمحرك واحد في السماء !" tvg-logo="https://i.ytimg.com/vi/JuPzBFakKYE/hqdefault.jpg",ساعة و40 دقيقة بمحرك واحد في السماء !
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://yewtu.be/latest_version?id=JuPzBFakKYE&itag=18&local=true
+#EXTINF:-1 group-title="إذاعة مختلف" tvg-name="ما الطائرات التي يحتاجها أسطول الخطوط السعودية؟" tvg-logo="https://i.ytimg.com/vi/E_XMO1qV-lQ/hqdefault.jpg",ما الطائرات التي يحتاجها أسطول الخطوط السعودية؟
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://yewtu.be/latest_version?id=E_XMO1qV-lQ&itag=18&local=true
 #EXTINF:-1 group-title="إذاعة مختلف" tvg-name="الخطوط السعودية تسبق طيران الرياض إلى مانشستر" tvg-logo="https://i.ytimg.com/vi/1t2UFNLzLP8/hqdefault.jpg",الخطوط السعودية تسبق طيران الرياض إلى مانشستر
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://yewtu.be/latest_version?id=1t2UFNLzLP8&itag=18&local=true
@@ -38,9 +44,3 @@ https://yewtu.be/latest_version?id=7YjolEva4Wo&itag=18&local=true
 #EXTINF:-1 group-title="إذاعة مختلف" tvg-name="لماذا تأخر ستارلينك على طائرات الناقلات السعودية؟" tvg-logo="https://i.ytimg.com/vi/g4sDuC0fMrE/hqdefault.jpg",لماذا تأخر ستارلينك على طائرات الناقلات السعودية؟
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://yewtu.be/latest_version?id=g4sDuC0fMrE&itag=18&local=true
-#EXTINF:-1 group-title="إذاعة مختلف" tvg-name="7. ماذا تفعل إذا أُلغيت رحلتك من أوروبا؟" tvg-logo="https://i.ytimg.com/vi/_nLAPpU1qLs/hqdefault.jpg",7. ماذا تفعل إذا أُلغيت رحلتك من أوروبا؟
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://yewtu.be/latest_version?id=_nLAPpU1qLs&itag=18&local=true
-#EXTINF:-1 group-title="إذاعة مختلف" tvg-name="كيف بنت طيران الإمارات أغلى علامة في قطاع الطيران؟" tvg-logo="https://i.ytimg.com/vi/Jf-vMSGJF5E/hqdefault.jpg",كيف بنت طيران الإمارات أغلى علامة في قطاع الطيران؟
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://yewtu.be/latest_version?id=Jf-vMSGJF5E&itag=18&local=true
