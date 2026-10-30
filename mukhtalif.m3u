@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 group-title="إذاعة مختلف" tvg-name="لماذا بدأت إير فرانس عودتها للمنطقة من الرياض؟" tvg-logo="https://i.ytimg.com/vi/c3JVuntViqk/hqdefault.jpg",لماذا بدأت إير فرانس عودتها للمنطقة من الرياض؟
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://yewtu.be/latest_version?id=c3JVuntViqk&itag=18&local=true
 #EXTINF:-1 group-title="إذاعة مختلف" tvg-name="ساعة و40 دقيقة بمحرك واحد في السماء !" tvg-logo="https://i.ytimg.com/vi/JuPzBFakKYE/hqdefault.jpg",ساعة و40 دقيقة بمحرك واحد في السماء !
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://yewtu.be/latest_version?id=JuPzBFakKYE&itag=18&local=true
@@ -41,6 +44,3 @@ https://yewtu.be/latest_version?id=0MjOqNhLUw4&itag=18&local=true
 #EXTINF:-1 group-title="إذاعة مختلف" tvg-name="مدرج في مطار إسطنبول بتكلفة مليار دولار!" tvg-logo="https://i.ytimg.com/vi/7YjolEva4Wo/hqdefault.jpg",مدرج في مطار إسطنبول بتكلفة مليار دولار!
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://yewtu.be/latest_version?id=7YjolEva4Wo&itag=18&local=true
-#EXTINF:-1 group-title="إذاعة مختلف" tvg-name="لماذا تأخر ستارلينك على طائرات الناقلات السعودية؟" tvg-logo="https://i.ytimg.com/vi/g4sDuC0fMrE/hqdefault.jpg",لماذا تأخر ستارلينك على طائرات الناقلات السعودية؟
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://yewtu.be/latest_version?id=g4sDuC0fMrE&itag=18&local=true
