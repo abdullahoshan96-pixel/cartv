@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 group-title="إذاعة مختلف" tvg-name="رحلة كل ركابها ترانزيت!" tvg-logo="https://i.ytimg.com/vi/9aEF5nx01TM/hqdefault.jpg",رحلة كل ركابها ترانزيت!
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://yewtu.be/latest_version?id=9aEF5nx01TM&itag=18&local=true
+#EXTINF:-1 group-title="إذاعة مختلف" tvg-name="بعد سنوات من التعثر: هل استعادت بوينغ ثقة السوق؟ | بودكاست أميال" tvg-logo="https://i.ytimg.com/vi/F_DahfGKPeM/hqdefault.jpg",بعد سنوات من التعثر: هل استعادت بوينغ ثقة السوق؟ | بودكاست أميال
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://yewtu.be/latest_version?id=F_DahfGKPeM&itag=18&local=true
 #EXTINF:-1 group-title="إذاعة مختلف" tvg-name="لحق الطيارة وشنطته معه!" tvg-logo="https://i.ytimg.com/vi/JpPrYRDO31g/hqdefault.jpg",لحق الطيارة وشنطته معه!
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://yewtu.be/latest_version?id=JpPrYRDO31g&itag=18&local=true
@@ -38,9 +44,3 @@ https://yewtu.be/latest_version?id=M1tHSAjSkhk&itag=18&local=true
 #EXTINF:-1 group-title="إذاعة مختلف" tvg-name="إيرباص تقترب من كسر آخر احتكارات بوينغ" tvg-logo="https://i.ytimg.com/vi/g4-5ajtPa9A/hqdefault.jpg",إيرباص تقترب من كسر آخر احتكارات بوينغ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://yewtu.be/latest_version?id=g4-5ajtPa9A&itag=18&local=true
-#EXTINF:-1 group-title="إذاعة مختلف" tvg-name="كمبيوتر طائرات 737 أصبح باللمس!" tvg-logo="https://i.ytimg.com/vi/kwVfc86QV-c/hqdefault.jpg",كمبيوتر طائرات 737 أصبح باللمس!
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://yewtu.be/latest_version?id=kwVfc86QV-c&itag=18&local=true
-#EXTINF:-1 group-title="إذاعة مختلف" tvg-name="تغريدة أثارت اعتراض شركات الطيران" tvg-logo="https://i.ytimg.com/vi/0MjOqNhLUw4/hqdefault.jpg",تغريدة أثارت اعتراض شركات الطيران
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://yewtu.be/latest_version?id=0MjOqNhLUw4&itag=18&local=true
