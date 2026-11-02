@@ -1,4 +1,13 @@
 #EXTM3U
+#EXTINF:-1 group-title="إذاعة مختلف" tvg-name="الطائرة في مرحلة التاكس؟!" tvg-logo="https://i.ytimg.com/vi/iUOWDzjVA9s/hqdefault.jpg",الطائرة في مرحلة التاكس؟!
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://yewtu.be/latest_version?id=iUOWDzjVA9s&itag=18&local=true
+#EXTINF:-1 group-title="إذاعة مختلف" tvg-name="أفضل 5 شركات طيران عربية" tvg-logo="https://i.ytimg.com/vi/1_qbeQjsd7U/hqdefault.jpg",أفضل 5 شركات طيران عربية
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://yewtu.be/latest_version?id=1_qbeQjsd7U&itag=18&local=true
+#EXTINF:-1 group-title="إذاعة مختلف" tvg-name="سباق محتدم بين طيران ناس والخطوط التركية في سوريا !" tvg-logo="https://i.ytimg.com/vi/k_XFcV7wAGc/hqdefault.jpg",سباق محتدم بين طيران ناس والخطوط التركية في سوريا !
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://yewtu.be/latest_version?id=k_XFcV7wAGc&itag=18&local=true
 #EXTINF:-1 group-title="إذاعة مختلف" tvg-name="رحلة كل ركابها ترانزيت!" tvg-logo="https://i.ytimg.com/vi/9aEF5nx01TM/hqdefault.jpg",رحلة كل ركابها ترانزيت!
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://yewtu.be/latest_version?id=9aEF5nx01TM&itag=18&local=true
@@ -35,12 +44,3 @@ https://yewtu.be/latest_version?id=wiyS0VvYOYA&itag=18&local=true
 #EXTINF:-1 group-title="إذاعة مختلف" tvg-name="هل تتفوق طيران ناس على الخطوط التركية في سوريا؟ | بودكاست أميال" tvg-logo="https://i.ytimg.com/vi/y0NdkpAHqaA/hqdefault.jpg",هل تتفوق طيران ناس على الخطوط التركية في سوريا؟ | بودكاست أميال
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://yewtu.be/latest_version?id=y0NdkpAHqaA&itag=18&local=true
-#EXTINF:-1 group-title="إذاعة مختلف" tvg-name="درجة الأعمال تتفوق على السياحية في الإيرادات!" tvg-logo="https://i.ytimg.com/vi/pj7l0weNPic/hqdefault.jpg",درجة الأعمال تتفوق على السياحية في الإيرادات!
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://yewtu.be/latest_version?id=pj7l0weNPic&itag=18&local=true
-#EXTINF:-1 group-title="إذاعة مختلف" tvg-name="خلل جديد يلاحق بوينغ 737 ماكس" tvg-logo="https://i.ytimg.com/vi/M1tHSAjSkhk/hqdefault.jpg",خلل جديد يلاحق بوينغ 737 ماكس
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://yewtu.be/latest_version?id=M1tHSAjSkhk&itag=18&local=true
-#EXTINF:-1 group-title="إذاعة مختلف" tvg-name="إيرباص تقترب من كسر آخر احتكارات بوينغ" tvg-logo="https://i.ytimg.com/vi/g4-5ajtPa9A/hqdefault.jpg",إيرباص تقترب من كسر آخر احتكارات بوينغ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://yewtu.be/latest_version?id=g4-5ajtPa9A&itag=18&local=true
