@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 group-title="إذاعة مختلف" tvg-name="كم عدد المقاعد في أكبر طائرة في العالم ؟" tvg-logo="https://i.ytimg.com/vi/h3BVjSExz5M/hqdefault.jpg",كم عدد المقاعد في أكبر طائرة في العالم ؟
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://yewtu.be/latest_version?id=h3BVjSExz5M&itag=18&local=true
+#EXTINF:-1 group-title="إذاعة مختلف" tvg-name="رحلة مانشستر بأهمية لندن!" tvg-logo="https://i.ytimg.com/vi/xw8wBFanucM/hqdefault.jpg",رحلة مانشستر بأهمية لندن!
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://yewtu.be/latest_version?id=xw8wBFanucM&itag=18&local=true
 #EXTINF:-1 group-title="إذاعة مختلف" tvg-name="الطائرة في مرحلة التاكس؟!" tvg-logo="https://i.ytimg.com/vi/iUOWDzjVA9s/hqdefault.jpg",الطائرة في مرحلة التاكس؟!
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://yewtu.be/latest_version?id=iUOWDzjVA9s&itag=18&local=true
@@ -38,9 +44,3 @@ https://yewtu.be/latest_version?id=uJRxu3Uru8k&itag=18&local=true
 #EXTINF:-1 group-title="إذاعة مختلف" tvg-name="بريميم إيكونومي بسعر ثلث درجة الأعمال!" tvg-logo="https://i.ytimg.com/vi/8soRaT7oKXc/hqdefault.jpg",بريميم إيكونومي بسعر ثلث درجة الأعمال!
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://yewtu.be/latest_version?id=8soRaT7oKXc&itag=18&local=true
-#EXTINF:-1 group-title="إذاعة مختلف" tvg-name="لماذا لا تُوطّن شركات الطيران طواقم الضيافة بالكامل؟" tvg-logo="https://i.ytimg.com/vi/wiyS0VvYOYA/hqdefault.jpg",لماذا لا تُوطّن شركات الطيران طواقم الضيافة بالكامل؟
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://yewtu.be/latest_version?id=wiyS0VvYOYA&itag=18&local=true
-#EXTINF:-1 group-title="إذاعة مختلف" tvg-name="هل تتفوق طيران ناس على الخطوط التركية في سوريا؟ | بودكاست أميال" tvg-logo="https://i.ytimg.com/vi/y0NdkpAHqaA/hqdefault.jpg",هل تتفوق طيران ناس على الخطوط التركية في سوريا؟ | بودكاست أميال
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://yewtu.be/latest_version?id=y0NdkpAHqaA&itag=18&local=true
