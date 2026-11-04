@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 group-title="إذاعة مختلف" tvg-name="أغرب صفقة في تاريخ الطيران العربي" tvg-logo="https://i.ytimg.com/vi/GP4aM9BaELA/hqdefault.jpg",أغرب صفقة في تاريخ الطيران العربي
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://yewtu.be/latest_version?id=GP4aM9BaELA&itag=18&local=true
+#EXTINF:-1 group-title="إذاعة مختلف" tvg-name="أكثر 5 طائرات فعـالة!" tvg-logo="https://i.ytimg.com/vi/b3-71J15yG8/hqdefault.jpg",أكثر 5 طائرات فعـالة!
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://yewtu.be/latest_version?id=b3-71J15yG8&itag=18&local=true
 #EXTINF:-1 group-title="إذاعة مختلف" tvg-name="كم عدد المقاعد في أكبر طائرة في العالم ؟" tvg-logo="https://i.ytimg.com/vi/h3BVjSExz5M/hqdefault.jpg",كم عدد المقاعد في أكبر طائرة في العالم ؟
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://yewtu.be/latest_version?id=h3BVjSExz5M&itag=18&local=true
@@ -38,9 +44,3 @@ https://yewtu.be/latest_version?id=1t2UFNLzLP8&itag=18&local=true
 #EXTINF:-1 group-title="إذاعة مختلف" tvg-name="لماذا رفضت دلتا إيلون ماسك؟" tvg-logo="https://i.ytimg.com/vi/3QgXS2o2UKI/hqdefault.jpg",لماذا رفضت دلتا إيلون ماسك؟
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://yewtu.be/latest_version?id=3QgXS2o2UKI&itag=18&local=true
-#EXTINF:-1 group-title="إذاعة مختلف" tvg-name="جت بلو تكسب مزاد خانات سبيرت في نيويورك" tvg-logo="https://i.ytimg.com/vi/uJRxu3Uru8k/hqdefault.jpg",جت بلو تكسب مزاد خانات سبيرت في نيويورك
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://yewtu.be/latest_version?id=uJRxu3Uru8k&itag=18&local=true
-#EXTINF:-1 group-title="إذاعة مختلف" tvg-name="بريميم إيكونومي بسعر ثلث درجة الأعمال!" tvg-logo="https://i.ytimg.com/vi/8soRaT7oKXc/hqdefault.jpg",بريميم إيكونومي بسعر ثلث درجة الأعمال!
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://yewtu.be/latest_version?id=8soRaT7oKXc&itag=18&local=true
