@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 group-title="إذاعة مختلف" tvg-name="سبب غياب رحلات لآسيا الوسطى!" tvg-logo="https://i.ytimg.com/vi/v1ZJL9JqMaQ/hqdefault.jpg",سبب غياب رحلات لآسيا الوسطى!
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://yewtu.be/latest_version?id=v1ZJL9JqMaQ&itag=18&local=true
+#EXTINF:-1 group-title="إذاعة مختلف" tvg-name="فكرة لزيادة الرحلات الداخلية" tvg-logo="https://i.ytimg.com/vi/289EyruHlC8/hqdefault.jpg",فكرة لزيادة الرحلات الداخلية
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://yewtu.be/latest_version?id=289EyruHlC8&itag=18&local=true
 #EXTINF:-1 group-title="إذاعة مختلف" tvg-name="أغرب صفقة في تاريخ الطيران العربي" tvg-logo="https://i.ytimg.com/vi/GP4aM9BaELA/hqdefault.jpg",أغرب صفقة في تاريخ الطيران العربي
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://yewtu.be/latest_version?id=GP4aM9BaELA&itag=18&local=true
@@ -38,9 +44,3 @@ https://yewtu.be/latest_version?id=JuPzBFakKYE&itag=18&local=true
 #EXTINF:-1 group-title="إذاعة مختلف" tvg-name="ما الطائرات التي يحتاجها أسطول الخطوط السعودية؟" tvg-logo="https://i.ytimg.com/vi/E_XMO1qV-lQ/hqdefault.jpg",ما الطائرات التي يحتاجها أسطول الخطوط السعودية؟
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://yewtu.be/latest_version?id=E_XMO1qV-lQ&itag=18&local=true
-#EXTINF:-1 group-title="إذاعة مختلف" tvg-name="الخطوط السعودية تسبق طيران الرياض إلى مانشستر" tvg-logo="https://i.ytimg.com/vi/1t2UFNLzLP8/hqdefault.jpg",الخطوط السعودية تسبق طيران الرياض إلى مانشستر
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://yewtu.be/latest_version?id=1t2UFNLzLP8&itag=18&local=true
-#EXTINF:-1 group-title="إذاعة مختلف" tvg-name="لماذا رفضت دلتا إيلون ماسك؟" tvg-logo="https://i.ytimg.com/vi/3QgXS2o2UKI/hqdefault.jpg",لماذا رفضت دلتا إيلون ماسك؟
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://yewtu.be/latest_version?id=3QgXS2o2UKI&itag=18&local=true
