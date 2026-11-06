@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 group-title="إذاعة مختلف" tvg-name="الملكية الأردنية والترانزيت" tvg-logo="https://i.ytimg.com/vi/HNq5fJLks5U/hqdefault.jpg",الملكية الأردنية والترانزيت
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://yewtu.be/latest_version?id=HNq5fJLks5U&itag=18&local=true
+#EXTINF:-1 group-title="إذاعة مختلف" tvg-name="تفوق الملكية الأردنية !" tvg-logo="https://i.ytimg.com/vi/NqILFrOqyog/hqdefault.jpg",تفوق الملكية الأردنية !
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://yewtu.be/latest_version?id=NqILFrOqyog&itag=18&local=true
 #EXTINF:-1 group-title="إذاعة مختلف" tvg-name="سبب غياب رحلات لآسيا الوسطى!" tvg-logo="https://i.ytimg.com/vi/v1ZJL9JqMaQ/hqdefault.jpg",سبب غياب رحلات لآسيا الوسطى!
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://yewtu.be/latest_version?id=v1ZJL9JqMaQ&itag=18&local=true
@@ -38,9 +44,3 @@ https://yewtu.be/latest_version?id=JpPrYRDO31g&itag=18&local=true
 #EXTINF:-1 group-title="إذاعة مختلف" tvg-name="لماذا بدأت إير فرانس عودتها للمنطقة من الرياض؟" tvg-logo="https://i.ytimg.com/vi/c3JVuntViqk/hqdefault.jpg",لماذا بدأت إير فرانس عودتها للمنطقة من الرياض؟
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://yewtu.be/latest_version?id=c3JVuntViqk&itag=18&local=true
-#EXTINF:-1 group-title="إذاعة مختلف" tvg-name="ساعة و40 دقيقة بمحرك واحد في السماء !" tvg-logo="https://i.ytimg.com/vi/JuPzBFakKYE/hqdefault.jpg",ساعة و40 دقيقة بمحرك واحد في السماء !
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://yewtu.be/latest_version?id=JuPzBFakKYE&itag=18&local=true
-#EXTINF:-1 group-title="إذاعة مختلف" tvg-name="ما الطائرات التي يحتاجها أسطول الخطوط السعودية؟" tvg-logo="https://i.ytimg.com/vi/E_XMO1qV-lQ/hqdefault.jpg",ما الطائرات التي يحتاجها أسطول الخطوط السعودية؟
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://yewtu.be/latest_version?id=E_XMO1qV-lQ&itag=18&local=true
