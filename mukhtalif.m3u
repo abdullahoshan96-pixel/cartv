@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 group-title="إذاعة مختلف" tvg-name="أكثر المسارات الجوية ازدحاماً في العالم!" tvg-logo="https://i.ytimg.com/vi/wC7Fan6gnOQ/hqdefault.jpg",أكثر المسارات الجوية ازدحاماً في العالم!
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://yewtu.be/latest_version?id=wC7Fan6gnOQ&itag=18&local=true
+#EXTINF:-1 group-title="إذاعة مختلف" tvg-name="أفضل 5 مطارات في الشرق الأوسط وأفريقيا!" tvg-logo="https://i.ytimg.com/vi/RNDHlExtniY/hqdefault.jpg",أفضل 5 مطارات في الشرق الأوسط وأفريقيا!
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://yewtu.be/latest_version?id=RNDHlExtniY&itag=18&local=true
 #EXTINF:-1 group-title="إذاعة مختلف" tvg-name="الملكية الأردنية والترانزيت" tvg-logo="https://i.ytimg.com/vi/HNq5fJLks5U/hqdefault.jpg",الملكية الأردنية والترانزيت
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://yewtu.be/latest_version?id=HNq5fJLks5U&itag=18&local=true
@@ -38,9 +44,3 @@ https://yewtu.be/latest_version?id=9aEF5nx01TM&itag=18&local=true
 #EXTINF:-1 group-title="إذاعة مختلف" tvg-name="بعد سنوات من التعثر: هل استعادت بوينغ ثقة السوق؟ | بودكاست أميال" tvg-logo="https://i.ytimg.com/vi/F_DahfGKPeM/hqdefault.jpg",بعد سنوات من التعثر: هل استعادت بوينغ ثقة السوق؟ | بودكاست أميال
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://yewtu.be/latest_version?id=F_DahfGKPeM&itag=18&local=true
-#EXTINF:-1 group-title="إذاعة مختلف" tvg-name="لحق الطيارة وشنطته معه!" tvg-logo="https://i.ytimg.com/vi/JpPrYRDO31g/hqdefault.jpg",لحق الطيارة وشنطته معه!
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://yewtu.be/latest_version?id=JpPrYRDO31g&itag=18&local=true
-#EXTINF:-1 group-title="إذاعة مختلف" tvg-name="لماذا بدأت إير فرانس عودتها للمنطقة من الرياض؟" tvg-logo="https://i.ytimg.com/vi/c3JVuntViqk/hqdefault.jpg",لماذا بدأت إير فرانس عودتها للمنطقة من الرياض؟
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://yewtu.be/latest_version?id=c3JVuntViqk&itag=18&local=true
