@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 group-title="إذاعة مختلف" tvg-name="أكبر 5 شركات طيران اقتصادي عربية" tvg-logo="https://i.ytimg.com/vi/jiPBPmLRYFM/hqdefault.jpg",أكبر 5 شركات طيران اقتصادي عربية
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://yewtu.be/latest_version?id=jiPBPmLRYFM&itag=18&local=true
 #EXTINF:-1 group-title="إذاعة مختلف" tvg-name="شحن جوي بأقل من 10 ساعات" tvg-logo="https://i.ytimg.com/vi/1vfKpyti92s/hqdefault.jpg",شحن جوي بأقل من 10 ساعات
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://yewtu.be/latest_version?id=1vfKpyti92s&itag=18&local=true
@@ -41,6 +44,3 @@ https://yewtu.be/latest_version?id=xw8wBFanucM&itag=18&local=true
 #EXTINF:-1 group-title="إذاعة مختلف" tvg-name="الطائرة في مرحلة التاكس؟!" tvg-logo="https://i.ytimg.com/vi/iUOWDzjVA9s/hqdefault.jpg",الطائرة في مرحلة التاكس؟!
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://yewtu.be/latest_version?id=iUOWDzjVA9s&itag=18&local=true
-#EXTINF:-1 group-title="إذاعة مختلف" tvg-name="أفضل 5 شركات طيران عربية" tvg-logo="https://i.ytimg.com/vi/1_qbeQjsd7U/hqdefault.jpg",أفضل 5 شركات طيران عربية
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://yewtu.be/latest_version?id=1_qbeQjsd7U&itag=18&local=true
