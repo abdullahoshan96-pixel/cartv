@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 group-title="إذاعة مختلف" tvg-name="أكبر 5 شركات لتأجير الطائرات في العالم!" tvg-logo="https://i.ytimg.com/vi/YhGiEjQ74_c/hqdefault.jpg",أكبر 5 شركات لتأجير الطائرات في العالم!
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://yewtu.be/latest_version?id=YhGiEjQ74_c&itag=18&local=true
 #EXTINF:-1 group-title="إذاعة مختلف" tvg-name="وفرنا 20 ضعف التكلفة!" tvg-logo="https://i.ytimg.com/vi/SpXyuck1MsQ/hqdefault.jpg",وفرنا 20 ضعف التكلفة!
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://yewtu.be/latest_version?id=SpXyuck1MsQ&itag=18&local=true
@@ -41,6 +44,3 @@ https://yewtu.be/latest_version?id=289EyruHlC8&itag=18&local=true
 #EXTINF:-1 group-title="إذاعة مختلف" tvg-name="أغرب صفقة في تاريخ الطيران العربي" tvg-logo="https://i.ytimg.com/vi/GP4aM9BaELA/hqdefault.jpg",أغرب صفقة في تاريخ الطيران العربي
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://yewtu.be/latest_version?id=GP4aM9BaELA&itag=18&local=true
-#EXTINF:-1 group-title="إذاعة مختلف" tvg-name="أكثر 5 طائرات فعـالة!" tvg-logo="https://i.ytimg.com/vi/b3-71J15yG8/hqdefault.jpg",أكثر 5 طائرات فعـالة!
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://yewtu.be/latest_version?id=b3-71J15yG8&itag=18&local=true
