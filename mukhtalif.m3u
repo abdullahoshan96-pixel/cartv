@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 group-title="إذاعة مختلف" tvg-name="حرارة المحرك ارتفعت فوق الجبال!" tvg-logo="https://i.ytimg.com/vi/z27AOvmiZgw/hqdefault.jpg",حرارة المحرك ارتفعت فوق الجبال!
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://yewtu.be/latest_version?id=z27AOvmiZgw&itag=18&local=true
 #EXTINF:-1 group-title="إذاعة مختلف" tvg-name="أغرب الشحنات!" tvg-logo="https://i.ytimg.com/vi/2b1VhW6WY9A/hqdefault.jpg",أغرب الشحنات!
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://yewtu.be/latest_version?id=2b1VhW6WY9A&itag=18&local=true
@@ -41,6 +44,3 @@ https://yewtu.be/latest_version?id=NqILFrOqyog&itag=18&local=true
 #EXTINF:-1 group-title="إذاعة مختلف" tvg-name="سبب غياب رحلات لآسيا الوسطى!" tvg-logo="https://i.ytimg.com/vi/v1ZJL9JqMaQ/hqdefault.jpg",سبب غياب رحلات لآسيا الوسطى!
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://yewtu.be/latest_version?id=v1ZJL9JqMaQ&itag=18&local=true
-#EXTINF:-1 group-title="إذاعة مختلف" tvg-name="فكرة لزيادة الرحلات الداخلية" tvg-logo="https://i.ytimg.com/vi/289EyruHlC8/hqdefault.jpg",فكرة لزيادة الرحلات الداخلية
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://yewtu.be/latest_version?id=289EyruHlC8&itag=18&local=true
