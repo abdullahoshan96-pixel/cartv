@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 group-title="إذاعة مختلف" tvg-name="أكبر 5 أسواق طيران في الشرق الأوسط!" tvg-logo="https://i.ytimg.com/vi/5JuzCBlWFYA/hqdefault.jpg",أكبر 5 أسواق طيران في الشرق الأوسط!
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://yewtu.be/latest_version?id=5JuzCBlWFYA&itag=18&local=true
 #EXTINF:-1 group-title="إذاعة مختلف" tvg-name="تسهيلات غير مسبوقة لحاملي الجواز السعودي" tvg-logo="https://i.ytimg.com/vi/OsqeYxmf9VI/hqdefault.jpg",تسهيلات غير مسبوقة لحاملي الجواز السعودي
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://yewtu.be/latest_version?id=OsqeYxmf9VI&itag=18&local=true
@@ -41,6 +44,3 @@ https://yewtu.be/latest_version?id=wC7Fan6gnOQ&itag=18&local=true
 #EXTINF:-1 group-title="إذاعة مختلف" tvg-name="أفضل 5 مطارات في الشرق الأوسط وأفريقيا!" tvg-logo="https://i.ytimg.com/vi/RNDHlExtniY/hqdefault.jpg",أفضل 5 مطارات في الشرق الأوسط وأفريقيا!
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://yewtu.be/latest_version?id=RNDHlExtniY&itag=18&local=true
-#EXTINF:-1 group-title="إذاعة مختلف" tvg-name="الملكية الأردنية والترانزيت" tvg-logo="https://i.ytimg.com/vi/HNq5fJLks5U/hqdefault.jpg",الملكية الأردنية والترانزيت
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://yewtu.be/latest_version?id=HNq5fJLks5U&itag=18&local=true
