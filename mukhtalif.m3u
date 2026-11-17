@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 group-title="إذاعة مختلف" tvg-name="طائرات بـ50 ريالًا لماذا توقفت!" tvg-logo="https://i.ytimg.com/vi/ApOKVqgQl5k/hqdefault.jpg",طائرات بـ50 ريالًا لماذا توقفت!
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://yewtu.be/latest_version?id=ApOKVqgQl5k&itag=18&local=true
+#EXTINF:-1 group-title="إذاعة مختلف" tvg-name="الفرق بين HZ و RX في الطيران!" tvg-logo="https://i.ytimg.com/vi/8FN_g9R67iA/hqdefault.jpg",الفرق بين HZ و RX في الطيران!
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://yewtu.be/latest_version?id=8FN_g9R67iA&itag=18&local=true
 #EXTINF:-1 group-title="إذاعة مختلف" tvg-name="أكبر 5 أسواق طيران في الشرق الأوسط!" tvg-logo="https://i.ytimg.com/vi/5JuzCBlWFYA/hqdefault.jpg",أكبر 5 أسواق طيران في الشرق الأوسط!
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://yewtu.be/latest_version?id=5JuzCBlWFYA&itag=18&local=true
@@ -38,9 +44,3 @@ https://yewtu.be/latest_version?id=R4UUdSIqZBo&itag=18&local=true
 #EXTINF:-1 group-title="إذاعة مختلف" tvg-name="كيف تخطط «رِحال» لتشغيل 50 طائرة شحن في السعودية والخليج؟ | بودكاست أميال" tvg-logo="https://i.ytimg.com/vi/l3kC-YrfJJA/hqdefault.jpg",كيف تخطط «رِحال» لتشغيل 50 طائرة شحن في السعودية والخليج؟ | بودكاست أميال
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://yewtu.be/latest_version?id=l3kC-YrfJJA&itag=18&local=true
-#EXTINF:-1 group-title="إذاعة مختلف" tvg-name="أكثر المسارات الجوية ازدحاماً في العالم!" tvg-logo="https://i.ytimg.com/vi/wC7Fan6gnOQ/hqdefault.jpg",أكثر المسارات الجوية ازدحاماً في العالم!
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://yewtu.be/latest_version?id=wC7Fan6gnOQ&itag=18&local=true
-#EXTINF:-1 group-title="إذاعة مختلف" tvg-name="أفضل 5 مطارات في الشرق الأوسط وأفريقيا!" tvg-logo="https://i.ytimg.com/vi/RNDHlExtniY/hqdefault.jpg",أفضل 5 مطارات في الشرق الأوسط وأفريقيا!
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://yewtu.be/latest_version?id=RNDHlExtniY&itag=18&local=true
