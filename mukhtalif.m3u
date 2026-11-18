@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 group-title="إذاعة مختلف" tvg-name="لماذا تتحرك دفة الطائرة بعد توقفها؟" tvg-logo="https://i.ytimg.com/vi/nYojWfcem_o/hqdefault.jpg",لماذا تتحرك دفة الطائرة بعد توقفها؟
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://yewtu.be/latest_version?id=nYojWfcem_o&itag=18&local=true
 #EXTINF:-1 group-title="إذاعة مختلف" tvg-name="طائرات بـ50 ريالًا لماذا توقفت!" tvg-logo="https://i.ytimg.com/vi/ApOKVqgQl5k/hqdefault.jpg",طائرات بـ50 ريالًا لماذا توقفت!
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://yewtu.be/latest_version?id=ApOKVqgQl5k&itag=18&local=true
@@ -41,6 +44,3 @@ https://yewtu.be/latest_version?id=1vfKpyti92s&itag=18&local=true
 #EXTINF:-1 group-title="إذاعة مختلف" tvg-name="أقدم 5 شركات طيران في العالم!" tvg-logo="https://i.ytimg.com/vi/R4UUdSIqZBo/hqdefault.jpg",أقدم 5 شركات طيران في العالم!
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://yewtu.be/latest_version?id=R4UUdSIqZBo&itag=18&local=true
-#EXTINF:-1 group-title="إذاعة مختلف" tvg-name="كيف تخطط «رِحال» لتشغيل 50 طائرة شحن في السعودية والخليج؟ | بودكاست أميال" tvg-logo="https://i.ytimg.com/vi/l3kC-YrfJJA/hqdefault.jpg",كيف تخطط «رِحال» لتشغيل 50 طائرة شحن في السعودية والخليج؟ | بودكاست أميال
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://yewtu.be/latest_version?id=l3kC-YrfJJA&itag=18&local=true
