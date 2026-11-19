@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 group-title="إذاعة مختلف" tvg-name="المسافة واحدة والسعر يتضاعف؟" tvg-logo="https://i.ytimg.com/vi/6LEvWnE5NjY/hqdefault.jpg",المسافة واحدة والسعر يتضاعف؟
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://yewtu.be/latest_version?id=6LEvWnE5NjY&itag=18&local=true
 #EXTINF:-1 group-title="إذاعة مختلف" tvg-name="لماذا تتحرك دفة الطائرة بعد توقفها؟" tvg-logo="https://i.ytimg.com/vi/nYojWfcem_o/hqdefault.jpg",لماذا تتحرك دفة الطائرة بعد توقفها؟
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://yewtu.be/latest_version?id=nYojWfcem_o&itag=18&local=true
@@ -41,6 +44,3 @@ https://yewtu.be/latest_version?id=jiPBPmLRYFM&itag=18&local=true
 #EXTINF:-1 group-title="إذاعة مختلف" tvg-name="شحن جوي بأقل من 10 ساعات" tvg-logo="https://i.ytimg.com/vi/1vfKpyti92s/hqdefault.jpg",شحن جوي بأقل من 10 ساعات
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://yewtu.be/latest_version?id=1vfKpyti92s&itag=18&local=true
-#EXTINF:-1 group-title="إذاعة مختلف" tvg-name="أقدم 5 شركات طيران في العالم!" tvg-logo="https://i.ytimg.com/vi/R4UUdSIqZBo/hqdefault.jpg",أقدم 5 شركات طيران في العالم!
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://yewtu.be/latest_version?id=R4UUdSIqZBo&itag=18&local=true
