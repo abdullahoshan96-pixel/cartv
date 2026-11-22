@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 group-title="إذاعة مختلف" tvg-name="الذكاء الاصطناعي يتحكم في أميالك!" tvg-logo="https://i.ytimg.com/vi/JLHYCQDiZ5M/hqdefault.jpg",الذكاء الاصطناعي يتحكم في أميالك!
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://yewtu.be/latest_version?id=JLHYCQDiZ5M&itag=18&local=true
+#EXTINF:-1 group-title="إذاعة مختلف" tvg-name="سعر التذكرة حسب بياناتك!" tvg-logo="https://i.ytimg.com/vi/mRwBnWsYs9o/hqdefault.jpg",سعر التذكرة حسب بياناتك!
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://yewtu.be/latest_version?id=mRwBnWsYs9o&itag=18&local=true
 #EXTINF:-1 group-title="إذاعة مختلف" tvg-name="لماذا توقفت حركة الطيران في أمريكا لأكثر من 4 ساعات؟ | بودكاست أميال" tvg-logo="https://i.ytimg.com/vi/8Ux_87LZW88/hqdefault.jpg",لماذا توقفت حركة الطيران في أمريكا لأكثر من 4 ساعات؟ | بودكاست أميال
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://yewtu.be/latest_version?id=8Ux_87LZW88&itag=18&local=true
@@ -38,9 +44,3 @@ https://yewtu.be/latest_version?id=YhGiEjQ74_c&itag=18&local=true
 #EXTINF:-1 group-title="إذاعة مختلف" tvg-name="وفرنا 20 ضعف التكلفة!" tvg-logo="https://i.ytimg.com/vi/SpXyuck1MsQ/hqdefault.jpg",وفرنا 20 ضعف التكلفة!
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://yewtu.be/latest_version?id=SpXyuck1MsQ&itag=18&local=true
-#EXTINF:-1 group-title="إذاعة مختلف" tvg-name="300 ألف دولار لشحنة 76 كيلو!" tvg-logo="https://i.ytimg.com/vi/iA1oVFJZ4pk/hqdefault.jpg",300 ألف دولار لشحنة 76 كيلو!
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://yewtu.be/latest_version?id=iA1oVFJZ4pk&itag=18&local=true
-#EXTINF:-1 group-title="إذاعة مختلف" tvg-name="يشحنون أسود في الطائرات!" tvg-logo="https://i.ytimg.com/vi/WRbBqt_tBT4/hqdefault.jpg",يشحنون أسود في الطائرات!
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://yewtu.be/latest_version?id=WRbBqt_tBT4&itag=18&local=true
