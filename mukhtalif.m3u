@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 group-title="إذاعة مختلف" tvg-name="هل تتقاسم شركات الطيران الوجهات؟" tvg-logo="https://i.ytimg.com/vi/Pee4zkHlnTA/hqdefault.jpg",هل تتقاسم شركات الطيران الوجهات؟
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://yewtu.be/latest_version?id=Pee4zkHlnTA&itag=18&local=true
+#EXTINF:-1 group-title="إذاعة مختلف" tvg-name="ألف محاولة اتصال كل 4 ثواني!!" tvg-logo="https://i.ytimg.com/vi/x4iT0XaJC_8/hqdefault.jpg",ألف محاولة اتصال كل 4 ثواني!!
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://yewtu.be/latest_version?id=x4iT0XaJC_8&itag=18&local=true
 #EXTINF:-1 group-title="إذاعة مختلف" tvg-name="الذكاء الاصطناعي يتحكم في أميالك!" tvg-logo="https://i.ytimg.com/vi/JLHYCQDiZ5M/hqdefault.jpg",الذكاء الاصطناعي يتحكم في أميالك!
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://yewtu.be/latest_version?id=JLHYCQDiZ5M&itag=18&local=true
@@ -38,9 +44,3 @@ https://yewtu.be/latest_version?id=z27AOvmiZgw&itag=18&local=true
 #EXTINF:-1 group-title="إذاعة مختلف" tvg-name="أغرب الشحنات!" tvg-logo="https://i.ytimg.com/vi/2b1VhW6WY9A/hqdefault.jpg",أغرب الشحنات!
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://yewtu.be/latest_version?id=2b1VhW6WY9A&itag=18&local=true
-#EXTINF:-1 group-title="إذاعة مختلف" tvg-name="أكبر 5 شركات لتأجير الطائرات في العالم!" tvg-logo="https://i.ytimg.com/vi/YhGiEjQ74_c/hqdefault.jpg",أكبر 5 شركات لتأجير الطائرات في العالم!
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://yewtu.be/latest_version?id=YhGiEjQ74_c&itag=18&local=true
-#EXTINF:-1 group-title="إذاعة مختلف" tvg-name="وفرنا 20 ضعف التكلفة!" tvg-logo="https://i.ytimg.com/vi/SpXyuck1MsQ/hqdefault.jpg",وفرنا 20 ضعف التكلفة!
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://yewtu.be/latest_version?id=SpXyuck1MsQ&itag=18&local=true
