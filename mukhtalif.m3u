@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 group-title="إذاعة مختلف" tvg-name="هل يحق للطيار رفض الطيران مع زميله؟" tvg-logo="https://i.ytimg.com/vi/1THfy3P6jGE/hqdefault.jpg",هل يحق للطيار رفض الطيران مع زميله؟
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://yewtu.be/latest_version?id=1THfy3P6jGE&itag=18&local=true
+#EXTINF:-1 group-title="إذاعة مختلف" tvg-name="أسئلة المتابعين 2: لماذا لا توجد كاميرات في قمرة القيادة؟ | بودكاست أميال" tvg-logo="https://i.ytimg.com/vi/ZB8hnn6aUpE/hqdefault.jpg",أسئلة المتابعين 2: لماذا لا توجد كاميرات في قمرة القيادة؟ | بودكاست أميال
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://yewtu.be/latest_version?id=ZB8hnn6aUpE&itag=18&local=true
 #EXTINF:-1 group-title="إذاعة مختلف" tvg-name="عودة قوية للبويينغ بأرباح ضخمة" tvg-logo="https://i.ytimg.com/vi/rMHRe6QZG_A/hqdefault.jpg",عودة قوية للبويينغ بأرباح ضخمة
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://yewtu.be/latest_version?id=rMHRe6QZG_A&itag=18&local=true
@@ -38,9 +44,3 @@ https://yewtu.be/latest_version?id=5JuzCBlWFYA&itag=18&local=true
 #EXTINF:-1 group-title="إذاعة مختلف" tvg-name="تسهيلات غير مسبوقة لحاملي الجواز السعودي" tvg-logo="https://i.ytimg.com/vi/OsqeYxmf9VI/hqdefault.jpg",تسهيلات غير مسبوقة لحاملي الجواز السعودي
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://yewtu.be/latest_version?id=OsqeYxmf9VI&itag=18&local=true
-#EXTINF:-1 group-title="إذاعة مختلف" tvg-name="أسئلة المتابعين: لماذا تأخر تحديث مقصورات الخطوط السعودية؟ | بودكاست أميال" tvg-logo="https://i.ytimg.com/vi/sRsfyCgkgdw/hqdefault.jpg",أسئلة المتابعين: لماذا تأخر تحديث مقصورات الخطوط السعودية؟ | بودكاست أميال
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://yewtu.be/latest_version?id=sRsfyCgkgdw&itag=18&local=true
-#EXTINF:-1 group-title="إذاعة مختلف" tvg-name="حرارة المحرك ارتفعت فوق الجبال!" tvg-logo="https://i.ytimg.com/vi/z27AOvmiZgw/hqdefault.jpg",حرارة المحرك ارتفعت فوق الجبال!
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://yewtu.be/latest_version?id=z27AOvmiZgw&itag=18&local=true
