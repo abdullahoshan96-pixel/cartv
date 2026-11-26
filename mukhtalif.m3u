@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 group-title="إذاعة مختلف" tvg-name="لماذا مولت طيران ناس شركة خدمات أرضية؟" tvg-logo="https://i.ytimg.com/vi/tUWLqe2WfEE/hqdefault.jpg",لماذا مولت طيران ناس شركة خدمات أرضية؟
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://yewtu.be/latest_version?id=tUWLqe2WfEE&itag=18&local=true
+#EXTINF:-1 group-title="إذاعة مختلف" tvg-name="كلب بجانبك في الطائرة.. ما هو حقك؟" tvg-logo="https://i.ytimg.com/vi/abplvs_CEmI/hqdefault.jpg",كلب بجانبك في الطائرة.. ما هو حقك؟
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://yewtu.be/latest_version?id=abplvs_CEmI&itag=18&local=true
 #EXTINF:-1 group-title="إذاعة مختلف" tvg-name="هل يحق للطيار رفض الطيران مع زميله؟" tvg-logo="https://i.ytimg.com/vi/1THfy3P6jGE/hqdefault.jpg",هل يحق للطيار رفض الطيران مع زميله؟
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://yewtu.be/latest_version?id=1THfy3P6jGE&itag=18&local=true
@@ -38,9 +44,3 @@ https://yewtu.be/latest_version?id=ApOKVqgQl5k&itag=18&local=true
 #EXTINF:-1 group-title="إذاعة مختلف" tvg-name="الفرق بين HZ و RX في الطيران!" tvg-logo="https://i.ytimg.com/vi/8FN_g9R67iA/hqdefault.jpg",الفرق بين HZ و RX في الطيران!
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://yewtu.be/latest_version?id=8FN_g9R67iA&itag=18&local=true
-#EXTINF:-1 group-title="إذاعة مختلف" tvg-name="أكبر 5 أسواق طيران في الشرق الأوسط!" tvg-logo="https://i.ytimg.com/vi/5JuzCBlWFYA/hqdefault.jpg",أكبر 5 أسواق طيران في الشرق الأوسط!
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://yewtu.be/latest_version?id=5JuzCBlWFYA&itag=18&local=true
-#EXTINF:-1 group-title="إذاعة مختلف" tvg-name="تسهيلات غير مسبوقة لحاملي الجواز السعودي" tvg-logo="https://i.ytimg.com/vi/OsqeYxmf9VI/hqdefault.jpg",تسهيلات غير مسبوقة لحاملي الجواز السعودي
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://yewtu.be/latest_version?id=OsqeYxmf9VI&itag=18&local=true
