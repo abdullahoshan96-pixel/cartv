@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 group-title="إذاعة مختلف" tvg-name="مميزات الـ Global Entry على الـ Preclearance" tvg-logo="https://i.ytimg.com/vi/Ge74huVXVlc/hqdefault.jpg",مميزات الـ Global Entry على الـ Preclearance
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://yewtu.be/latest_version?id=Ge74huVXVlc&itag=18&local=true
+#EXTINF:-1 group-title="إذاعة مختلف" tvg-name="ماهي ادارة الطيران الفيدرالية FAA ؟" tvg-logo="https://i.ytimg.com/vi/fHyjFdaL6to/hqdefault.jpg",ماهي ادارة الطيران الفيدرالية FAA ؟
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://yewtu.be/latest_version?id=fHyjFdaL6to&itag=18&local=true
 #EXTINF:-1 group-title="إذاعة مختلف" tvg-name="لماذا مولت طيران ناس شركة خدمات أرضية؟" tvg-logo="https://i.ytimg.com/vi/tUWLqe2WfEE/hqdefault.jpg",لماذا مولت طيران ناس شركة خدمات أرضية؟
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://yewtu.be/latest_version?id=tUWLqe2WfEE&itag=18&local=true
@@ -38,9 +44,3 @@ https://yewtu.be/latest_version?id=6LEvWnE5NjY&itag=18&local=true
 #EXTINF:-1 group-title="إذاعة مختلف" tvg-name="لماذا تتحرك دفة الطائرة بعد توقفها؟" tvg-logo="https://i.ytimg.com/vi/nYojWfcem_o/hqdefault.jpg",لماذا تتحرك دفة الطائرة بعد توقفها؟
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://yewtu.be/latest_version?id=nYojWfcem_o&itag=18&local=true
-#EXTINF:-1 group-title="إذاعة مختلف" tvg-name="طائرات بـ50 ريالًا لماذا توقفت!" tvg-logo="https://i.ytimg.com/vi/ApOKVqgQl5k/hqdefault.jpg",طائرات بـ50 ريالًا لماذا توقفت!
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://yewtu.be/latest_version?id=ApOKVqgQl5k&itag=18&local=true
-#EXTINF:-1 group-title="إذاعة مختلف" tvg-name="الفرق بين HZ و RX في الطيران!" tvg-logo="https://i.ytimg.com/vi/8FN_g9R67iA/hqdefault.jpg",الفرق بين HZ و RX في الطيران!
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://yewtu.be/latest_version?id=8FN_g9R67iA&itag=18&local=true
